@@ -1,0 +1,104 @@
+    1  pwd
+    2  sudo apt update
+    3  sudo apt upgrade -y
+    4  sudo apt install apache2 -y
+    5  sudo systemctl status apache2
+    6  sudo systemctl start apache2
+    7  sudo systemctl enable apache2
+    8  /var/www/html
+    9  cd /var/www/html/
+   10  sudo git clone https://github.com/Abranteszs/Projeto1.git
+   11  ls
+   12  cd Projeto1
+   13  ls
+   14  git pull origin main
+   15  git config
+   16  git pull origin main
+   17  git config --global --add safe.directory /var/www/html/Projeto1
+   18  git pull origin main
+   19  git status
+   20  sudo git pull origin main
+   21  cd C:\Users\Tomás Abrantes\Desktop\ESTGA\Laboratorioinformatica
+   22  cd "C:\Users\Tomás Abrantes\Desktop\ESTGA\Laboratorioinformatica"
+   23  clear
+   24  cd ~/C:\Users\Tomás Abrantes\Desktop\ESTGA\Laboratorioinformatica
+   25  cd "/c/Users/Tomás Abrantes/Desktop/ESTGA/Laboratorioinformatica"
+   26  cd /c/Users/Tomás\ Abrantes/Desktop/ESTGA/Laboratorioinformatica
+   27  cd "/c/Users/Tomás Abrantes/Desktop/ESTGA/Laboratorioinformatica"
+   28  pwd
+   29  cd Laboratorioinformatica
+   30  cd ESTGA
+   31  ls -l
+   32  git clone https://github.com/teu-usuario/nome-do-repositorio.git
+   33  git clone https://github.com/teu-usuario/nome-do-repositorio.gitls
+   34  ls
+   35  pwd
+   36  git clone https://github.com/Abranteszs/LI2025-Teste03.git
+   37  dir
+   38  cd LI2025-Teste03/
+   39  mkdir
+   40  mkdir A134359
+   41  history > meusComandosAzure.txt
+   42  cd A134359
+   43  echo "Teste de LI 2025/2026" > README.md
+   44  cd ..
+   45  git add A134359/README.md
+   46  git push origin main
+   47  git branch
+   48  git push
+   49  git status
+   50  git commit -m "2ª tarefa concluída"
+   51  git push -u origin main
+   52  git push origin main
+   53  history > meusComandosAzure.txt
+   54  git pull origin main
+   55  git branch -M master
+   56  history > meusComandosAzure.txt
+   57  cd ..
+   58  history > meusComandosAzure.txt
+   59  ls
+   60  git clone https://github.com/Abranteszs/LI2025-Teste03.git
+   61  cd LI2025-Teste03
+   62  cd ..
+   63  touch index.html
+   64  New-Item index.html
+   65  touch index.html
+   66  code .
+   67  git add index.html
+   68  git commit -m "3ª tarefa concluída - adicionado index.html com Bootstrap"
+   69  git push origin master
+   70  git add index.html disciplina.html
+   71  git commit -m "4ª tarefa"
+   72  git push origin master
+   73  git add index.html disciplina.html
+   74  git commit -m "4ª tarefa"
+   75  git push origin master
+   76  ls -l
+   77  cd LI2025-Teste03
+   78  c ..
+   79  cd ..
+   80  ls -l
+   81  nano index.html
+   82  nano disciplina.html
+   83  git add index.html disciplina.html
+   84  git commit -m "4ª tarefa"
+   85  git push origin master
+   86  git branch
+   87  git add index.html disciplina.html
+   88  git commit -m "4ª tarefa"
+   89  git push origin master
+   90  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
+   91  git pull origin main
+   92  history > meusComandosAzure.txt
+   93  cat meusComandosAzure.txt
+   94  git pull origin main
+   95  history > meusComandosLOCAIS.txt
+   96  cat meusComandosLOCAIS.txt
+   97  git clone https://github.com/Abranteszs/LI2025-Teste04.git
+   98  cd LI2025-Teste04
+   99  mkdir js css
+  100  cd js
+  101  echo "//ficheiro de script" > script.js
+  102  echo "" > ../css/style.css
+  103  cd ..
+  104  history > cmdsTarefa2.txt
